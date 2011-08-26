@@ -1,0 +1,1222 @@
+
+
+
+
+
+                                   BuffyPunk
+                         Adventures in SanFran District
+
+                            by Norman J. Harman Jr.
+
+
+
+
+
+
+
+
+
+
+Copyright (c) 2003 by Norman J. Harman Jr.
+
+This work is licensed under the Creative Commons NonCommercial-ShareAlike
+License. To view a copy of this license, visit
+http://creativecommons.org/licenses/nc-sa/1.0/ or send a letter to Creative
+Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.
+
+
+
+
+                                   -- <o> --
+
+
+
+Author's Preface
+
+
+BuffyPunk was a campaign setting I made up for the "Buffy the Vampire Slayer"
+RPG.  I created a bit of "background" non-player characters(NPCs), settings,
+history, plot twists, etc. and four friends created characters but we never got
+around to playing.  Most of it is in my mind, some you can see here [nothing
+there should be a spoiler] "http://friendorfoe.com/buffy/".  Along comes
+nanowrimo and said friends convince me to base the great norm novel on this
+campaign (They're all BtVS freaks and I'm afraid they're hoping my stories will
+partly fill the terrible void left in all our lives when the series ended.)
+
+
+It is easier to write a book than gamemaster a RPG in that it is much simpler to
+get the characters to do the exciting things.  In an RPG, the characters are
+other humans, and it is a very thin line between allowing them free-will and
+keeping the story moving/fun.  With a book the author, unlike a GM, is
+responsible for everything, all of the plot, all of the dialog, all of the
+emoutions and goals of every character.  But, most of all I'm missing the
+immeadiate feedback / synergy a good group of gamers creates.
+
+
+The original layout of the information that is becomming this book was a grand
+story arch, the "season plot."  With several subplots, red herrings, and clues
+to (hopefully) lead the characters to a final climatic battle with the "big
+bad".  The subplots are seperated into "episodes".  Which, in an RPG, would be
+one or two nights worth of gamming.  I had intended to turn each "episode" into
+a chapter.  But, those plans seem to be out the window after writing part of the
+first chapter.
+
+
+Ah well, let's see how it turns out.
+
+
+
+
+Special thanks (and apologies if your character doesn't turn out the
+way you had invisioned) to:
+
+        Angie Locke aka Miakoda Lequoia
+        Bob Goffin  aka Mulletov Viva La Gunderson
+        Jeff Holland aka Manta Ray Lopez aka Mannie aka Ray
+        Nannatte Mickle aka Celestine Pearl
+
+and for very cutest cute things ever:
+
+        www.petoftheday.com
+
+
+
+
+Book in progress may be viewed here
+http://freakaccident.com/peeps/njharman/writing/BuffyPunk.txt
+
+Author may be bitched at here
+njharman@notanothercorporation.com
+
+
+
+[Draft Notice: anything in square brackets is a note to myself and generally
+indicates something I want to go back and change but that required research or I
+had a "block" and didn't want to get bogged down only 28 days left ya know!]
+
+
+
+                                   -- <o> --
+
+
+
+Prolog (for fans of the show)
+
+
+The last several TV episodes did not happen.  Let's just pretend "The First"
+never happened.  Buffy and gang did eventually take the Sunnyvale hellmouth
+off-line.  It's nice and peacefull there now.  Here is what did happen
+
+
+Buffy Summers was and remains the only slayer to have "retired".  She was
+absolved of her slayer duties by The Reformed Council.  Together, Buffy and
+Faith kicked so much demon butt that having a slayer making babies and being a
+soccer mom was doable.  After many years of peacefull homelife Buffy died of old
+age surrounded by friends and family, awwwwh.
+
+
+Faith, dead by age 25 just like any slayer not named "Buffy".  Still, her death
+took three "full" demons, and two of them didn't survive to gloat over it.
+
+
+Willow's magical powers ranked her with the greatest of mankind's practitioners
+The likes of Merlin, Akhnaten, and Lilith.  Responsible for numerous Earth
+altering events; such as preventing several wars, stopping various and sundry
+demonic "end-the-world" plots and repulsing an interdimensional invasion.
+Throughout Willow remained anonymous.  Always on the sidlines, always allowing
+others the credit.  One feat undeniably her's is the perfection of techomancy or
+the use of magic with technology primarily the casting of spells over, through
+and on computer and communication networks.  After Buffy's retirement Willow
+became even more reclusive and cast powerfull wards to ensure her privacy.  Many
+claim to have seen Willow or to have recognized her handiwork but the only
+verifyable appearence is at Buffy's wake. Where, interestingly, Willow's
+physical or magical prowess showed little diminshment despite her qualifying for
+the "silver discount".
+
+
+Spike.  Well he didn't burn up in flames of martydom.  Never accepted by the
+"good guys" and no longer evil he led a lonely and troubled existance. Some
+things never change, eh?.  Spike battled many a demonic nasty alongside the
+slayers until Buffy retired.  He even had a short fling as a daytime soaps star.
+He was the prime figure in putting down Angelicus after Angel lost his soul yet
+again.  Sadly, Buffy never forgave him for dusting her first love and he became
+outwardly bitter and spitefull to slayers and scoobies.  Spike crashed Buffy's
+wake were his drunken rantings forced Willow to throw down with the magical
+asskicking.  After that, little is known of Spike's wanderings.  The Reformed
+Council believes he has finally been put to rest.
+
+
+Giles led the reformation of the Watcher's Council.  It is now called The
+Reformed Council and is not as bastardly.  Made into a vampire by Angelicus,
+killed shortly thereafter by a slayer.
+
+
+
+
+                                   -- <o> --
+
+
+
+                   SanFran District, Greater Bay Area -  2103
+
+[ insert map of SanFran District. Draft here "http://friendorfoe.com/buffy/SFDist.jpg" ]
+
+
+
+                                   -- <o> --
+
+
+
+Glossary:
+
+Alcatraz Island:  Seized by the IAT Nov 2069, the 100th year anniversary of the
+first indian reoccupation.  Since the shake and burn IAT has heavily fortifed
+the island.  It is a no-go zone for non-indians.  Tresspassers are killed dead
+by organized, trained, buffed warrior braves.
+
+Blimpnet:  Common name for the GBA local wireless network.  In SFDist, amoung
+others, the network's primary backbone consists of tethered blimps supported by
+numerous land based repeaters.
+
+Buffed:  Seriously well-armed
+
+GBA: Greater Bay Area. Independent quasi-citystate in northern California
+encompasesing most of The Peninsula, East Bay, and South Bay.  Formed out of the
+people who had not abandoned the Bay Area before and who lived through the shake
+and burn; neo-hippies, anarchists, liberterians, cypherpunks, survivalists,
+technopagens, cultists, crusties, crunchies, FOB's, freaks, and a medley of
+other sub-cultures. They share common attributes of DIY, freedom, independence,
+multi-culturalism, and equality.
+
+It is hemmed on the east by the Coastal Hills Range, on the north by El Cerrito,
+and includes all of San Jose to the south.  These are not fixed, recognized
+boundries.  They are simply the places in which more people claim to be part of
+the GBA rather than part of something else.  Within this loosly defined area are
+many large and small tracts that are uncontrolled, controlled by other
+entities(IAT, Corporations, Government, Independent Townships, etc.) or are just
+not fit for continuous habitation.  The GBA is divided into districts. Each
+district has its own locally elected council, militia(s), and is largely
+self-governing but all subscribe to The Universal Declaration of Human Rights.
+The GBA itself has an overall council elected by its citizens and a "militia"
+which is more of a standing para-military force than the district militias.
+
+Handie:  Phone, radio, computer.  Portable, fuelcell powered, wireless connection
+to the blimpnet.  Available to all GBA citizens.  Only the technophobic or truly
+paranoid are without one.
+
+HIBH:  Hotel International Boarding House, small hostel in SanFran District, GBA.
+Often pronounced "Hibbie"
+
+IAT:  Indians of All Tribes.  Federation of numerous northern california Native
+American Tribes.
+
+JB/JBH:  Julia Butterfly High School the larger of two grade 7-12 schools in SFDist.
+
+(the) Lev: The magnetic levitation trains that form the core of SFDist's
+transportation network.
+
+Miwok (Angel) Island:  (Re)occupied and developed by the IAT starting in the
+summer of 2072.  It provides "grow-food" land, living space, and is the epicenter
+of tribal life for the IAT.  Non-tribesmen are unwelcommed but not killed on
+sight.
+
+no-go/no-go zone: Area that is not safe to enter.  Reasons for this include it's
+toxic, structurally unstable, or the people there spread SDS.
+
+SDS: Sudden Death Syndrome. An affliction suffered by those who habitually
+piss-off the wrong people.
+
+SFDist:  SanFran District, a "political" subdivision of the GBA. 132,000 or so
+people live, work and make babies in SFDist the acknowledged asspit of the GBA.
+
+(the) shake and burn:  Massive earthquake and ensuing riots of 2070 that more or
+less destroyed the Bay Area.
+
+uberkid: Fairly common mutation affecting 1-2% of recent births.  They are
+super-intelligent child prodigies whose accelerated developement leads to
+accelerated death.  None have lived past their 26th birthday.
+
+
+-- <o> --
+
+
+Chapter One - The Tea Party
+
+
+[ insert pictures of Queen Pickles and Mr. Shuffles,
+  here "http://friendorfoe.com/buffy/Queen Pickles.jpg"
+  and here "http://friendorfoe.com/buffy/Mr. Shuffles.jpg" ]
+
+
+Great old pines whispered to the wind as it blew on its way in from the sea.
+Their delicate needles took only what they needed from the ever giving sun.  In
+turn providing to the creatures of the woods what they needed.  Creatures like
+Owl who today looked down on a creature of an altogether different sort, not at
+all common in these woods.  A pale, little human girl of no more than eight
+years.  Getting up, the girl smoothed her pretty white dress, with its frills
+and cute pink belt that matched the ribbon in her blonde hair.  Her blue eyes
+sparkled with satisfaciton at the splendid arrangement of saucers, cups, tasty
+morsels, steaming tea, soymilk, cubed surgar, napkins, and Wendy's favorite,
+tiny little spoons whose silver finish twinkled in the sunlight that managed to
+push it's way through the fresh smelling pines.  In the center a simple cream
+colored vase demurred to the beauty of a single daisy.  Freshly grown by the the
+senior biology class, each petal a diffrent unnaturally vibrant hue.  Another of
+Wendy's favorites.  Mr. Delgado had brought it, just for her.  He was to be
+seated in the place of honor directly opposite the supreme happy place, Wendy's
+chair.  Now, as too often, he looked protectively towards Wendy.  She brushed a
+pale lock of hair from her eyes and favored him with a reassuring little smile.
+Wendy thought him, as most people, too simple, but he was nice and had taken
+care of her so she tolerated him.  More than that, she guessed she liked him.
+Yes, definately she liked him or else he would not have been invited to her
+tea-party.  Mr. Delgado removed black wool hat, revealing his short cut but
+handsome, dark and stiff head of hair.  Greying at the temples in the most
+gentlemanly of manners.  He bowed deeply, returning Wendy's smiled greeting and
+placed his hat and rested his cane carefully on the picnic table edge.  He
+hadn't even completed removing his fine, grey, gloves before he attempted to
+snatch one of the buttery baked goodies Wendy had so precisely stacked into an
+equalateral pyramid.  She doubted he even noticed the geometric equation she had
+formulated on the spotless white tablecloth.  She knew his mathmatical apptitude
+was insufficient to comprehend it.  No matter, a quick eep and stern look from
+Wendy put a stop to that illmannered pilfering.  Mr. Delgado would have to sit,
+patiently, until Wendy said it was time to have cookies.  What could he have
+been thinking?  The tea hasn't even been poured yet!  But, she would have to see
+to that quickly, her guests were becomming inpaitent.  Queen Pickles was chewing
+on her napkin!  With the salty sea-wind gusting not everything could be perfect.
+She sighed, accepting that her white dress was as smooth and straight as it
+possibly could be.  She quickly poured Mr. Delgado and herself each a steaming,
+rich brown cup of [dragon] tea.  Then even more quickly produced a shiny red
+cherry tomato from some hidden place of her dress.  Queen Pickles ceased her
+unseemly napkin chewing and fixated on the faboulous treat waved infront of her.
+The attention was soon rewarded and she was sloppily and noiseily in tasty
+tomato bliss.  Giggling, Wendy provided several bright green leaves of lettuce
+to her next guest, the distinguised Mr. Shuffles.  Nearly as distingushed as
+Mr. Delgado for he also had a fine hat, lacking only the cane and greying hair.
+Mr. Shuffles' furry coat was a pristine white, as white as the table cloth or
+Wendy's dress, save for one black splotch on his left ear.  Wendy relished order
+and perfection, but understood, even embraced that chaos was part of the cosmos
+and found Mr. Shuffles splotch to not be an offront, but rather a nice
+variation, example of diversity.  Diversity was one of those few things Delgado
+had understood before Wendy and she was thankfull to have learned it from him.
+Unlike, Queen Pickles, Mr. Shuffles was very cautious; he had to sniff left and
+sniff right before taking the first fantastic bite of lettuce.  Also,
+distinctly, unlike Pickles, he was quiet and patient.  Queen Pickles was already
+nudging Wendy for another sweet treat.  A blue, fluffy, vaguely dog shaped ball
+was also in attendence.  It looked rather scragely, more from old age than from
+lack of care.  Its recently and carefully shinned name tag read "Snookums".
+There were no place settings for it, afterall, it was stuffed with fluff.  It
+didn't even have any animatronics.  Wendy wouldn't tolerate animatronics, she
+disliked fake things, things that pretend to be alive but aren't.  But, there
+was a time when Snookums was all she had.  So, he would always have some part to
+play, however small.
+
+
+Owl had to admit that this was a very pleasent party and the nice little girl
+was definately of the white side of things.  Even the older one, the man with
+his naughty cane, was old in skin and body only, not mind.  His heart was young
+and white.  Despite all this, Owl couldn't very well leave such a plump looking
+rabbit as Mr. Shuffles siting, happily munching lettuce right underneath his
+branch.  He was after all, Owl.  So, with one final twist around of his neck to
+ensure Crow or Fox weren't waiting to spring some trick or trap, Owl silently
+spread great brown wings and hopped off his piney perch.  Slowly, (to Owl these
+moments of swooping passed slower than any other) without a sound and with just
+the tinest twist of feathers Owl silently banked wide around the other side of
+the gathering.  Gliding along a path angled just so.  With outstretched talons
+he would snatch that tasty rabbit, hat and all, and be back up into the pines
+safe from Fox, but still needing to keep both large eyes on lookout for Crow.
+Time eeked onwards, Owl flexed the fingers of his talons, each in turn.  He
+thought "If I had lips like that noisy hedgehog I would be licking them just as
+enthusiastically".  Uh, oh. The prey's nose is twitching, he knows...
+
+
+Mr. Shuffles stopped chewing his scrumptous lettuce, he had that feeling.  The
+feeling that only the hunted get, the feeling that only the hunters give.
+Without even looking up he hopped once, getting all the way onto the table.
+Then turning three quarters of the way around pushed as hard as his back legs
+could be pushed.  On the way to the ground, something yanked off the stoopid hat
+he had to wear and his left ear stung painfully.  He heard Wendy screech and
+call out his name.  But, there was no time for any of that.  Mr. Shuffles was
+busy executing his famous "Hippity Hop This way an That" manuever.  He might be
+getting on in the years but no nasty grabby was going to get him today.  With
+the lingering taste of lettuce in his mouth, he zigged, he zagged, he *hopped!*
+Off into the trees he darted.  But, these tall pines were no good, no friend of
+rabbits.  A nice, thick, covering underbrush is what Mr. Shuffles sought now.
+Sniffing, oh what tastey aromas floated in the air, but Mr. Shuffles was strong,
+he percervered and hopped towards the tangy scent he knew meant ferns and
+grasses.  Soon the tinge of fern overpowered all other smells.  He was close.
+Finally his weak eyes caught sight of a green mass, dark and protective.  With a
+final leap of lupine proprotions Mr. Shuffles was there, safe, invisible to the
+world and all mean things.  Nothing could possibly search him out in his
+unfindable sanctuary.  Twitching his wiskers, it didn't even smell too bad here,
+and despite being so floppy he knew his ears were good and they detected
+nothing, nothing except those foot steps, big human foots.  He thought "It's
+Wendy, I'm sure with a faboulously tastey carrot to lure me out."  Mr. Shuffles
+was of stout will but no rabbit worthy of the name could stand up to the
+crushing temptation of juicy, orange, delichousnous.  Out he lept and
+immeadiately remembered that he forgot to lead with his nose and sniff out the
+situation.  He was completely out from under the ferns' safety, it was dark, it
+was cold, and he could not smell even a hint of carrot.  The footsteps had
+ceased and he neither heard nor smelled Wendy.  Mr. Shuffles was scared.  So
+scared he started to shake and forgot to hippity hop away and a hand grabbed him
+by the scruff of the neck. A large rough hand, much bigger than Wendy's, that
+squeezed him meanly.  Rapidly, fluidly, with evil grace the clawed hand brought
+it's catch into view. Still shaking Mr. Shuffles fainted of fear at the fanged
+visage that greeted him.
+
+
+                                    <->
+
+
+Wanda startled at the prone figure's sudden jolt and grimmaced expression.  The
+figure was a fine young woman, strong, beautifull.  Her long, braided hair was
+arranged according to custom along either side of her light brown cheeks it
+reached well past the medicine bag nesteled between her breasts.  She lay on a
+large white, grey and brown wolf skin.  The great skin of a pack leader.  A
+friend of the tribe whose wish upon entering the spirit realm for the final time
+was to remain, in this world, close to the tribe that had protected his family.
+The same Miwok tribe Wanda had been forced out of.  At times she sensed in
+Miakoda, the unconscious woman before her, a similar longing, no it was a need,
+a need to follow a different course than that the tribe hopes for.  Wanda wished
+her easy passage in whatever path this young persons journey to adulthood took.
+She was wise enough to understand that that journey must be self-directed.  You
+can't push a spirit ahead nor can you pull one along behind.  At most you can
+show there is a path to take, that there is a journey worth finishing.  Wanda
+supposed the tribal elders knew she understood this much and that is why when
+they sent their most gifted young to study at JB they were boarded at her
+hostel.  She was sure the elders knew a great deal about her, they were elders
+after all.  It was just someone like Wanda, someone who had made Wanda's
+choices, did not fit into the Miwok community.  At least, she thought, I'm not
+ostrisized, boarding these students keeps me a little envolved.  This semester
+there were three including Miakoda, the oldest, who was presently undertaking a
+vision quest.  An old and skilled medicine women, Thunderfeather, was their
+official guardian.  But, she was very nice to Wanda and allowed her privilages,
+such as being Miakoda's waking world [anchor].  Privalages whose existance
+wouldn't even be talked about let alone granted to a non-tribe member.  Yeah,
+Wanda consoled herself, the elders understood much more than they revealed,
+there was deep wisdom in that.  Happy, she again focused on the rythmic thumping
+of her hands.  Slowly, consistantly, left then right, on the elk hide drum, a
+powerfull totem of Thunderfeather's, lent to her for this occasion.  She hadn't
+stopped beating during her brief mental excursion.  She mustn't stop, keeping
+rythim with Miakoda's beat, keeping her spirit "self" connected to this world.
+This was Wanda's sole and sacred duty during this spirirt world journey.
+Whatever might be troubling the young women, it, like all things ultimately, was
+something Miakoda must face herself.
+
+
+                                    <->
+
+
+"Oh no!" Wendy thought, that naughty owl scared Mr. Shuffles.  Scared Queen
+Pickles too, but she had sense enough to hide under the table.  No doubt, curled
+up tight, spines all out.  With a quick twist she threw her tea cup up at the
+owl but it was already lost to sight, even hers.  The delicate cup shattered
+agaisnt a nearby trunk.  Pieces of it's intricant pattern of flowers and swans
+fell feather like, end over end, bouncing softly in the bed of dry red needles
+that covered the ground.  Wendy looked down and expressed no puzzlement at
+seeing one very orange carrot and one sharp wooden stick, a stake?  Without much
+effort, but with much detriment to the smoothness of her dress Wendy forward
+flipped out of her chair, over the table and was off running after Mr. Shuffles.
+On the table only the stake remained, distictly out of place on the white cloth
+amongst the teacups and spilt sugar cubes.  Wendy's patent leather shoes kicked
+up pine needles with each long stride.  She utterly ignored Mr. Delgado's
+warnings, pleadings, and lastly his admoshments to stay.  Her pretty pink ribbon
+caught on a branch and was yanked from her hair.  It swung briefly in the wind
+before Delgado retrieved it.  Folding it neatly, he placed it in his vest
+pocket.  Checking his watch he was extremly alarmed to find it suddenly after
+dark.  Foregoing his previous plan to retrieve Queen Pickles he went
+immeadiately for his cane.  He must locate Wendy, the Queen would just have to
+manage on her own.  Before covering half the distance back to the shambles that
+was so recently a pleasent tea-party, Mr. Delgado fell face first onto the
+ground with a large welt swelling on the back of his head.  A black gloved hand
+reached down to roll him over.  After brushing away pine needles stuck to
+Delgado's cheek the hand reached past his unconscious face to pluck a small
+white triangleish shape from the ground.  It's white ceramic contrasted sharply
+with the dark leather of the fingerless glove.  Above, Owl hooted, but the owner
+of the hand paid no attention.  Seemingly fixated on the fine green and red
+tracings criss-crossing the piece.  Finally, he made sense of the incomplete
+pattern, recongizing it for a slightly abstract flower, one whose name he could
+never get straight.  Determinedly the fingers of the hand closed crushingly over
+the teacup shard.  Fine white powder sifted from the glove, dusting
+Mr. Delgado's face and chest causing an involuntery sneeze.  In response for
+this, the gloved figure kicked him in the ribs.
+
+
+Wendy stopped, her blonde hair did not and fell in a total mess all over her
+face.  With a hefty puff from her lower lip she blew the hair clear from her
+right eye.  Forgetting it was only a tasty carrot, she held it out infront of
+her like a weapon.  The pointy end towards the trenchcoated figure that had made
+her stop.  She didn't recognize this one but she knew the type, heavy boots,
+lots of black, lots of leather.  Not much trouble usually, but this one held
+Mr. Shuffles.  Wendy hoped, no she was sure he was still alive, he just had to
+be.  She was preparing a suitably threating threat when Mr. Trenchcoat burst out
+laughing, a full head tilting back laugh.  Abruptly he ceased all chuckling and
+brought his head foward, yellow eyes fixed on Wendy, on what she had in her
+hand.
+
+"Um, " looking away to the side momentarly as if eye contact with Wendy was
+bearable only in short doses.  "Lil miss, have you forgot?  Carrots, do jack
+all, you need a wood stick".
+
+There was laugh from a new figure just walking up from the left of the faced-off
+duo.  Similar in dress to the first except for the classic full-length black
+trench.  Instead his fashion statement was fingerless gloves.  Leather and black
+of course.  His laugh was far from similar.  Gutteral, the kind of laugh that
+only comes from being raised in "Bumfuck" Nebraska or "Asswipe" Missisippi.
+This figure was one Wendy knew too well.
+
+"Uh huh, get it boss?  Leading with carrot, hiting with stick, huh huh".
+
+"Shut up Cleetus."
+
+"He's right ya know", and to Cleetus "Thanks for reminding me."
+
+"Huh, what?".
+
+But, by the time Cleetus had managed to express his confusion at the rapid
+repartee.  (Actually, moon phases are bit too quick for him.)  Wendy had let go
+of the carrot and was lifting her left leg straight up infront.  With her shiny
+black shoe far over her head she grabbed a wood stake that was strapped to the
+back of her thigh.  While her leg was on the way up she had started toppling
+forward and continued this motion into a kartwheel.  After one revolution she
+endend up in the splits; her left leg straight behind, her right leg with toes
+expertly pointed, right arm perfectly parrall.  Both leg and arm facing straight
+at Mr. Trenchcoat.  A dumb look, one she would have expected Cleetus to wear,
+was on his face.  The stake, propelled with all her forward momentum, sat buried
+more than halfway into his left breast.  Behind her the carrot hit the ground
+and with a small puff he, trenchcoat and all, turned to dust.  Wendy was up on
+her feet, not even pausing to brush off the dirt and needles her gymnastics had
+plauged her with.  She was too far away to catch Mr. Shuffles but he was fat and
+had thick fur.  The short fall to the ground was the least amount of trauma he
+had recently endured.  Cleetus was dumb but he knew when to run.  By the time
+Wendy had ensured Mr. Shuffles well being he was long gone.  Ewwh! There was
+slobber all over Mr Shuffles ear, appearently that nasty trenchcoat had been
+busy licking off all the blood from Mr. Shuffles talon wound.
+
+
+Back at the picnic area everything had been smashed, her best table cloth was in
+shreds.  But, it was what had been scratched into the table that made Wendy
+burst into tears.
+
+"We gots D. who dummest now", signed Cleetus
+
+Still crying Wendy picked up Delgado's hat and found the royal hidey spot.
+Queen Pickles didn't know what to do, with Wendy so upset, so she rubbed her
+tiny wet nose on Wendy's wrist.  It helped a little
+
+
+                                    <->
+
+
+Tears where rolling down Miakoda's cheeks, gathering into little puddles before
+they were absorbed by her hair.  She was stirring now, returning to the living
+world.  Wanda did not slow the solem drumbeat, she would continue with it for
+several moments longer, until Miakoda was fully conscious and not before
+Thunderfeather had confirmed she was still and only just a young woman.
+Thunderfeather was busy cracking the windows and pulling back the heavy drapes.
+Soon cool evening sea air was replacing the scented smoke that had filled the
+small room.  Wanda breathed deeply, she thought the new air smelled like
+moonlight.  She knew the scented smoke was harmless certainly less damaging than
+many things she had enhaled.  But, it still made her unconfortable.  Perhaps it
+was too much of an "in your face" reminder of things she could never have,
+things she had chosen to give up.  Thunderfeather chanted in beat to the
+thumping drum.  An old Miwok detection magic, much older than any white
+settlement in this bay.  One of many magics that might have been lost during the
+dark times before the shake and burn if it were not for some truly brave and
+wise ancestors.
+
+"Miakoda Lequoia is only herself, it is safe to rest now.  You should be very
+proud of the role you performed Wanda Jennings."
+
+"I am only honored to have taken part."  But, Wanda was also very happy to quit
+after three hours of non-stop drumming.
+
+Miakoda sat up carefully.  She wasn't groggy, but the time after a dream quest
+was a period of conteplation.  Rapid movements did not seem natural.  It was
+cool and Miakoda pulled the wolf skin around her shoulders.  Things had many
+uses and it is right to use things fully.  One of the many lessons the elders
+and every adult tribe member was constantly pressing on Miakoda.  She
+appreciated them, they were good lessons, but she wondered if there weren't
+other lessons.  Ones even the elders did not know.  Arranged around her in no
+particular order or pattern where some of her favorite items; her tools, a few
+books, a well worn doll, a lock of Running Buck's black hair.  And things to
+keep her safe and guide her in the other worlds; the wolf skin, a few ancestor
+bones, her medicine bag, small clay platters on which Thunderfeather had burnt
+various woods and herbs, whose smoke was rapidly clearing from the room.  Things
+were as she remembered them.  Which was always a relief.  As a child around the
+campfires she had listened to the warnings and tales of how Fox could lead the
+careless back to the wrong waking world.  Luckily she had not felt nor seen Fox
+this quest.  Although, she knew that was not gurantee and not to trust her
+vision senses.  At her feet sat Wanda in her blue leotards and hot pink top.
+With sparkley makeup covering her cheeks and arms and eyeshadow a shade brighter
+than her leotards thickly spread all the way to her temples.  She was
+crosslegged, cradling a whale verteabre, covered in elk hide, the strongest drum
+in the whole tribe, she had overheard Thunderfeather say and had no reason to
+doubt that.  Wanda had just stopped drumming and was smiling at her in that
+concerned way that always made Miakoda feel safe and good inside.
+
+"That must have been a powerfull quest.  It is rare for the visions to intrude
+into our world."  In answer to Miakoda's confused look, Thunderfeather continued
+"You were crying and there were other signs of your experience in the spirit
+realms."  With this she looked towards the now silent drummer.  Wanda realized
+she was referring to Miakoda's jolts and grimaces.  As their eyes lingered Wanda
+felt warmth and respect from the older woman for being a resolute beatkeeper
+despite the difficult and troubling vision quest.  Such an acknowledgement meant
+a great deal to Wanda and reinforced Thunderfeather's ealier praise.
+
+"I'm confused, especially towards the end things became very unclear.  There was
+a long time of darkness.  I don't remember or even know why I am crying."  She
+was perhaps fifteen or sixteen, Miakoda's voice matched her face, soft and
+sweet.  It tenor[?] carried the urgency and eagerness of youth but her words were
+certain, confident even for one so gifted with vision, a future tribal medicine
+woman.
+
+"Be patient Miakoda.  This was a deep journey it will take time to fully
+understand everything, perhaps somethings will never be known."  Thunderfeather
+touched the control panel that would activate the electrolumisents and slowy
+raise the room's ambient light.  It had gotten quite dark after she extinguished
+the small sacred fires.  Oceanside's low clouds and perpetual fog in this season
+robbed what little moonlight might have made it through the large bay windows.
+
+"But this was different.  I rode with Owl for a time, but he never talked to me.
+No one talked to me.  I had no control, it was like I was passivly viewing
+someone else's quest."  Despite the tribal layout and decorations she liked the
+room she shared with Thunderfeather.  The medicinewoman tended many plants
+nutritive, medicinal and spiritial.  Most were in the Hibbie's greenhouse, a few
+very special ones were in this room but it was the giant saltwater tank glowing
+faintly green from the brightining electroluminesents that most often captured
+Miakoda's curosity and imagination.  In addition to the sea plants
+Thunderfeather made use of, the tank was home to several species of sea
+creatures.  "To complete the circle of life, a natural balance is required." she
+had explained.  Ms. Blackburn, Miakoda's biology teacher, would say something
+about ecosystems and food chains.  This remindeded her of another adult pushing
+philosphisms at her, an old man practicing Tai-Chi in the park, "There is one
+way, but many paths."  Yeah, yeah, sure. But what should *I* do.
+
+"Very interesting.  Remember you are not the only visitor to the spirit realm.
+"We all take part.  The plants, the animals, even those of us who think we do
+not."  Another glance towards Wanda but she busy tucking a blanket around
+Miakoda and missed it.  "Tell us who you saw."
+
+"That is why I'm so confused, it was two pale-faces from school.  One of my
+teachers, Mr. Delgado and Wendy.  I know her too, she's an uberkid.  I think she
+is his niece.  They were having a picnic.  I don't think it was *in* the spirit
+world either, I couldn't feel anything.  It looked like Pine Grove in the park.
+There were a rabbit and a tiny hedgehog but they wouldn't talk to me, no one
+talked to me.  I think they were Wendy's waking world pets.  Owl tried to catch
+the rabbit of course. I seperated from Owl and that was when things became less
+clear."
+
+A sea slug was probing the algee laden water.  With very little information it
+knew the role it should play.  But, with her visions, the elders constant
+lessons, the non-tribal knowldge she has aquired at JBH, everything Miakoda
+still couldn't see the answer.
+
+[Blah! ain't liking direction need to finnish, in Helsinki]
+
+
+
+
+                                   -- <o> --
+
+
+
+Chapter Two - Your cordially invited to ...
+
+
+
+
+Soft music played, a few strums of a harp, a twiddle of piccalo.  Slowy
+coalescing into a gentle melody as the volume increased.
+
+
+Then Glenda the Good Witch of the North whispers, "Celestine.  Celestine my
+dear, time to wake.  Time to rise and great the new day."
+
+
+Celestine thought of throwing her handie against the wall but it probably
+wouldn't break and the motion would require her to venture out from the
+comforter she had cocconed herself in.  She couldn't just tell it to be silent,
+the alarm function purposefully did not respond to voice command.  It was far
+too cold in SanFran District.  She missed Arizona, no not at all actually.  But,
+she did miss the heat. It was energizing.  This cold, especially this foggy,
+seaborn cold, sapped her will.  She had spent the last few hours awake, watching
+the fog roll past her window.  Slowly, progressivly she had snuggled deeper into
+the small bed.  Systimatically covering exposed bits until, finally, only her
+left eye and one dark, full eyebrow remained to endure the cold world.  She
+heard birds chirping, muffled by the layers of flanel, cotton and whatever folks
+in GBA stuff comforters with, but, definately birds, definately chirping.  Not
+the bird sound she had been waiting for.  Her monocular gaze still led out the
+window.  It was foggy, always foggy.  But the fog shimmered with the silvery
+light of Luna, not Sol's golden warmth.  The warm glow that would by mid-morning
+or the afternoon at the lastest drive the mist back to whence it came.  The
+pleasent birdsongs were from the handie, it's AI varied the progam each morning.
+She imagined a plucky robin bouncing back and forth along a slender branch
+crooning his unending love for his sweetie.  A pale eyelid had closed over the
+single eye.  But, the Good Witch quickly brought it up and Celestine back to
+conscinious.  The alarm must be changed, she needed to be driven from bed.  The
+robin, whatever bird it had been, mader her too, too content.  Peering out from
+under the red and black flannel of her comforter her deep blue eye focused on
+the dim glow of the handie's control surface.  Her pupil a black round finger
+jabbed out, she willed the yammering witch to stfu.  The robin was cut off mid
+note, an unfortunate but unavoidable victim.  Annoyed at the implied duality of
+good and evil Glenda represented she had the spark she needed.  At once, in a
+fluid motion she had kicked with her legs and thrown the layers of protective
+covers up over her head.  She was completly exposed now.  Her skin was still
+young, smooth and pale almost translucent in the faint moonlight.  It enclosed a
+thin, toned body.  Fit, healthy, and feminine.  Wiggling her toes she sat up,
+her hair was silky straight and deep black.  It fell easily, just brushing her
+slight shoulders.  There was no good and evil, only life and death and all of us
+struggling to get the most from the first and avoid the second.  Wow, it is damn
+cold.  Swinging her legs over the edge of the bed her feet glided into a pair of
+slippers before they could touch the plain wood floor.  Donning a thick,
+full-length robe that had lain on the floor she got up.
+
+
+The first hints of day were now visible out the window.  She sniffed but it was
+too cold to smell anything.  After a few depth breaths she looked around.  Few
+things in the room were hers, certainly no family photos, a few conservative
+outfits hung in a wardrobe, a few more not so conservative joined them.  Piled
+on the simple desk sat a small collection of books, some quite estoric but
+nothing that revealed too much about the room's occupant.  By the door a stout
+case held a violin, a nice one, nothing overly special though.  On the bedstand,
+no jewerly, only the access card that got her into the teacher's lounge.  It was
+temporary housing, one room in a hostel provided to her by the Council with her
+promotion from assistant to music teacher.  It was a home, a fairly good
+one.  She was in no hurry to leave it, not when her plans were progressing so
+well.  She grabbed some things and headed to the communal showers in the
+basement.
+
+
+On her way back to the the 2nd floor she caught Tumbles, Mrs Ahn's cat, trying
+to sneak downstairs.  The callico furball pratically jumped into Celestine's
+arms and purred virgorously with her first stroke of its soft coat.  Scratching
+under Tumbles chin she chided "Yes, you're a bad kitty." and with a big smooch
+"Such a bad kitty."  The door opposite Celestine's opened and out stepped Miakoda.
+"You had better hurry if you want to ride the Lev with me."
+
+
+"Yes Ms. Pearl, I'll meet you at the stop.  Don't leave without me." the last
+part had been yelled from half-way down the stairs.  But, Miakoda scampered back
+up to retrieve a moccasian that had flown off her foot when she had lept down to
+the first landing.
+
+
+"No waiting, be there." but the giggling smile on her face foiled her attempt at
+sterness.
+
+
+Tumbles made his move. Onto the floor, around Thunderfeather's feet and through
+the open doorway.  "Ha!" Tumbles backwards, over-the-shoulder look to Celestine
+seemed to say.
+
+
+"Don't worry, I'll see that rascal gets back to Mrs Ahn.  You have your share of
+rascals to deal with already."  Thunderfeather said as she opened the next door
+down and rousted the remaining two native girls from their night's slumber.
+
+
+If the only rascals I had to deal with were at school, Celestine mused to
+herself as she glanced once more out the window and still saw nothing.  Well,
+she saw a great deal just not the black, beaked creature she had hoped for.  The
+fog was clearing uncharasitically early and she looked out on a city full of
+life and energy.  Energies that should be much more developed than they were.
+Something was holding back this land's, these people's power, dampaning spirits
+like the fog dampened hers.  Quickly she was out of her robe and into one of the
+conservative outfits from the wadrobe.  A blue affair, but she had picked it
+because it had legs and was the warmest.  A last check of herself and the room;
+her shoes complimented the navy slacks well enough, her handie was in it's belt
+clip, access card around her neck, violin waiting to be picked up, earplug (she
+had neglected to listen to several student compositions the night before and
+needed to make up for it on the Lev ride to work), mental defenses were
+freshened, and finally screening spells put into place.  Down first one flight
+of stairs and then the second.  She passed the kitchen door on her way to the
+common room.  It was empty, it's 'round the wall counters would not see activity
+for several more hours.  The HIBH accomidated all types but the owner and
+majority of it's residents felt no need to rush the day.  A quick word to the
+front door lock and she was out.  The fog had made a rapid retreat, she could
+actually see the sun.  It had just crested Twin Peaks and she could feel it
+shine over the lowlands and drive the fog back into the ocean.  It felt warmer
+outside than in.  Only Nikoli had left the hostel before Celestine, he was
+already well out in the Pacific trying to track down and catch what few fish
+remained.  Celestine Pearl was headed down the street to the Lev stop, she had
+made it for one more day.
+
+
+
+                                    <->
+
+
+Mulletov Viva La Gunderson stuck out.  For one thing he was white, white as
+fresh snow, not that it ever snowed around here.  As white as the snow back in
+Flint anyways.  For another thing everyone remembers when he first came to
+SFDist he had a mullet.  Even after he shaved bald no one, almost, would use the
+new name, Peter, he had choosen.  People called him Mullethead if they talked to
+him at all.  But mostly the fact that he had no legs put him squarely in the
+category of "those to be picked on".  His legs had been blown off in a "Kids are
+Bombs" raid when his parents were still together and they all lived in Michigan.
+He was one of the few kids to survive Moore Memorial Elementary.  All his
+friends had been bombs or were blown up by them.  Mulletov wasn't sad about it,
+things just "were".  Kids either blew up or they picked on him.  Actually he did
+have legs, but they were mechanical.  The first ones the travelling doctors had
+sold to his parents weren't very good.  They gave him troubles walking and he
+often fell down even when no one was pushing.  But the new ones Mr. Ochi and the
+senior shop class had made for him last year were great.  Their fuel cells
+lasted a week and the actuators responded preciesly, without any delay.  Best of
+all they were fast!  He hadn't been beaten up once after getting them.  No one
+could come close to catching him.  They didn't even bother trying to chase him
+anymore.  There were more bullies in Flint, perhaps getting older had something
+to do with it, he was a junior this year.  He had noticed adults did not chase
+one another and beat each other up.  At least not most of them.  Mulletov was
+running over to Kropotkin Heights Collective to pick up his friend Mannie on his
+way to school.  Mulletov wouldn't admit that he was a friend.  Too afraid that
+he might blow-up, although, kids didn't seem to blow-up as much as they did when
+Mullet was younger.  They still went "missing" like his father had.  He had
+other "friends" as well.  Miakoda who he met in robot club but never talked to
+until after they both knew Mannie.  She was wicked slick with tech.  Wendy was
+around alot too, mostly she was around Mr. Delgado who was around Ms. Pearl who
+lived with Miakoda and was a teacher at the school.  Ms. Pearl hung out at
+lunch.  Wendy was so young he was sure its only a matter of time before, Boom!
+Running past the militia headquartes high up on it's granite outcropping he
+turned right onto Guerro Street.  Near 17th street Mannie was waiting, hanging
+upside down from a street lamp.  A handie pressed close to his small face.  His
+dark brown eyes intently following some video.
+
+"Hello Mr. Gunderson.  You know what it is about this place?  It's the smell.  I
+can't stand the smell."  Mannie was good with voices.  You'd never guess he was
+an adpoted French-Columbian.  He could impersonate anyone, at least anyone he
+had watched on video.
+
+"Come on Mannie, we'll be late."
+
+"Late for what?  Another wickedly interesting and beneficial day at prison?"
+
+"Yaup"
+
+"It's a sentence, a life sentence."
+
+"You wanna walk?  Just issue the orders captain, my captain."
+
+"Hey now, no reason to get all ooglealy."  Mannie was already swinging his small
+frame back and forth.  Soon he was right-side-up swaying from long, thin, brown
+arms.  After a little hand over hand and wrapping his blue-jeaned legs around
+the vertical pole he was on the ground picking up his red velour smoking jacket
+were he had thrown it.  Not counting the 3" black spikey mess Mannie considered
+a hairstyle he barely came to midchest on Mulletov.
+
+"Finally! Now get on."
+
+Mannie climbed up onto Mulletov's shoulders.  He barely weighed 36 Kilos.  This
+was just easier than anything else.  Three identical men waved from the top of
+Kropotkin's wall, Mannie ignores them.  Mulletov shrugs at this and was off
+running down Guerero towards JBH leaked hydrolic oil on his bare aluminum
+legs glistening in the morning rays.  Mannie yelling "Yeah, we funky. Funkay
+Dolmas."
+
+
+                                    <->
+
+
+Morning classes were over Mannie, Miakoda, and Molletov met in the halls.  The
+three of them went to the school's inner courtyard to have lunch as they did
+every day.
+
+Mannie walked with two handies out in front each displaying a different program.
+Gunderson was busy trying to step on the shoelaces that were trailing, untied,
+behind Mannie's lime green canvas sneakers.
+
+Miakoda teased the video zombie, "Those handies might as well replace your
+hands.  With Ms. Bates help I could probably rig something up."  Mannie stopped,
+Miakoda and Gunderson stopped.  A moment too late she realized what her words
+must have sounded like.  Looking at Mulletov, then at the ground, finally back
+into Gunderson eyes and reaching out a hand to touch his arm Miakoda said "Oh,
+Peter, I'm sorry. I didn't mean..." she trailed off.
+
+Mulletov didn't care.  If all that got blown off of Mannie were his hands he
+would be relieved.  He liked Miakoda holding his arm though and didn't want her
+to stop so he sat there sheepishly wondering what *not* to do.  Mannie hadn't
+looked up from his video and had simply stoped cause he had reaced a sunny spot
+and wanted to sit down.  Which he now did, straight down, ending up cross-legged
+in the grass.  The smells of lunch, protien puck samwhiches and wheatgrass,
+lingered until the wind carried then out of the open air courtyard.
+
+"Oh, goodie, you're all here, the last three names on my list."  Wendy exclaimed
+as she bounced across the courtyard.
+
+"What list?"  Miakoda could not hide her anxiety at having the girl from last
+night's vision run up to her the very next day.
+
+Sensing her tension Mulletov got ready to sprint away at the first sign of an
+explosion.  He could jump fairly high.  It might be worth it to try and make it
+to the roof he thought looking up.
+
+"I'm on a list?" Mannie said eyes still fixed on handie.
+
+Wendy bubbled "My birthday list of course!"  Trying to see what Mulletov was
+looking at. "You've all been selected to buy me a gift and present it at my
+birthday party.  Here!"  Handing each one of them, in turn, a piece of gold foil
+paper neatly folded each into a diffrent shape.  Neatly checking their names off
+the list in her notebook with a gold ink pen.
+
+She then curtsied and bounced back the way she came, humming a funny curious to
+herself.  Miakoda thought it sounded mathmatical.  She would never have reasoned
+out its cryptographic progression and gave up trying when she read the location
+of Wendy's party.
+
+
+        +----------------------------------------------------------+
+        |                                                          |
+        |  You have been cordially invited to attend this year's   |
+        |          most anticipated and _exclusive_ event          |
+        |                                                          |
+        |                                                          |
+        |         An intimate gathering in celebration of          |
+        |                 Wendy's eighth birthday                  |
+        |                                                          |
+        |                                                          |
+        |               Saturday November 10th, 2003               |
+        |                                                          |
+        |                       Pine Grove                         |
+        |                                                          |
+        |                                                          |
+        |                                                          |
+        |                  Formal attire required                  |
+        +----------------------------------------------------------+
+
+
+It was too much.  She didn't understand everything about vision quests but she
+understood they weren't suppose to precog her life.
+
+"I wouldn't go to this.  We don't have to go.  Let's not.  Don't go.  Say you
+won't go."  She spurted, rapidly before anyone could answer.
+
+"I'm going"  Mannie said while fast forwarding through something on one handie.
+
+"Why?" She whined.
+
+"Cause you're telling me not to." He retorted still fast forwarding.
+
+"You don't even have any formal attire."  Miakoda shot back.
+
+"Dad'll make me some."
+
+"Manta Ray Lopez you're such a pain!"  She spat.  Turning and smiling she
+pleaded "Peter don't go."
+
+Mulletov shrugged his sholders.
+
+"Of course he's going.  How do you think I'm getting there?  Walking? Ho!"
+Mannie had put away one handie to point a finger at Miakoda and then towards her
+feet. "Good one Ms. Silly Shoes."
+
+Looking down at her beautifull beaded mocasians she had made herself, "What? you
+can't even keep your stoopid shoes tied"
+
+"Hey, these shoes symbolize my individuality and belief in personal freedom."
+
+"Whatever."  Miakoda turned right around and left the two boys behind, her
+moccasians silently padding across the grass.
+
+"You'll be there too." Mannie yelled after her.
+
+"No." she stated flatly.
+
+"See ya Saturday."
+
+"No" she said again and kicked out the prop that held open the door to the
+lunchroom as she passed through causing it to slam behind her.
+
+To Gunderson, "She'll come."
+
+In response he just shrugged again.
+
+
+                                   -- <o> --
+
+
+
+
+[original RPG intro, needs expandin]
+
+
+"History of the GBA"
+8th week reading assignment, Mr. Gomez's Modern History
+
+
+As the WWW expanded into every aspect of life and each succesive generation knew
+less about any other way of living or communicating, crowding humans together in
+cities and going places to buy or do stuff became less and less
+important.  Corporations abandoned the cities.  Lacking the property and other
+business taxes the cites deteroated, encouraging more people and business to
+leave.  Eventually, everyone that could had moved out.
+
+On May 14, 2070 a magnatude 8.9 earthquake rocked the Bay Area("the shake"). The
+Golden Gate's north tower crashed into the bay dragging most of the span with
+it. BART2 and the Coastal MagLev were totaled up and down the peninnsula all the
+way to the SJPA Autonomous Economic Zone. The "Pepsi Cola" dike, built to hold
+back the rising oceans, mostly held. Nearly all the local utility and
+transportation infrastructure was devastated. Over 40% of all private property
+was knocked or burnt down. Most of the rest was condemnable or destroyed during
+the ensuing month long riots("the burn"). No one rushed to rebuild the city that
+was half-empty anyway. Plans were drawn up to repair the Coastal MagLev up the
+eastern side of the bay, no money for the project ever materialized. The Bay
+Bridge which had been newly hardened(vs terrorists) in 2043 was one of the few
+large structures to survive. Within a decade CALTRANS choose to tear it down
+rather than pay to maintain it.
+
+Most corporations had already reloacted their data centers and network
+infrastructure to geologically stable Sacramento or further afield. 90% of their
+workers telecommuted from PRD's(Planned Rural Developements), gated communities
+or various other quiet, safe, controlled areas. The USA and the world wrote the
+Bay Area off as a bad investment.
+
+Soon, after the shake and burn San Francisco, Silicon Valley, and the rest of
+the Bay Area fell into near anarchy. Only a few enclaves maintained a semblance
+of order and a stablity. The largest of these, based around the old public power
+generation facility and grid, slowly united the enclaves and "reclaims" much of
+the city. By 2103 there is a democraticly run "city-state" the GBA, Greater Bay
+Area. It controlls large parts of what was once refered to as "The Bay
+Area". Gaining defacto autonomy since, as of yet, the GBA rulership has been
+carefull not to give anyone a reason to care what happens around SF Bay.
+
+
+
+                                   -- <o> --
+
+
+
+
+Chapter ?? - Who *are* you?
+
+
+The two vampires heard the steady "whoop, whoop" sound that meant they were
+close.  Another 100m and they would emerge from the salt marsh that extended
+along the coast south of The Park.  Long ago a dike had been erected to hold
+back the rising Pacific.  Repreiving the happy residents of Old San Francisco, but
+not for long.  The shake and burn shattered the barrier along with beach,
+jogging trails and roads that once stood here.  In the years since the Pacific
+has felt obliged to further wreck and erode the scars of man.  Like most areas
+near The Park this coast and far inland has become overgrown [park plant].
+Humans and more importantly little slayers do not come here, at least not at
+night.  Too many of the frail things had gone 'missing'.  Portions of the "Great
+Highway" and other roads remained intact enough to provide dry(er) footing and
+paths across the deeper inlets.  The vampires regularly used these and now knew
+a fairly quick 'trail' from The Park edge to were the land rose, the marsh faded
+into sandy beach and the turbine fields began in the south.
+
+"Ha, look at this.  It's so confused."  Cleetus held up a twenty centimeter long
+pale slug-like thing.  The beastie flopped back and forth searching the air with
+its ring shaped mouth.  It's rows of cicular teeth seeking flesh to dig into.
+It was slimy enough to give Cleetus trouble keeping it from squirting through
+his gloved fists.
+
+"Gee, Cleetus you found a leech.  I can see the posting now 'While slogging
+through the putrid, revolting swamps of the lowlands, vampire is stunned to find
+leech turning the tables on him.'"  Cleetus's companion had no trouble seeing in
+the near total darkness the Eucalyptus canopy provided.
+
+"He's just looking for dinner like us." said Cleetus holding the leech up and
+looking for it's eyes.  "Sorry, little vampire guy.  I don't have any blood in
+me.  Maybe we'll find some later."  With this Cleetus slipped the wriggling
+blood-sucker into the thigh cargo pocket of his milita fatigues.
+
+The other vampire, one waiter clad leg on a fallen tree the other still mired in
+stink, turned around to glare at Cleetus.  He hated having to trek through the
+swamps but the Big Boss demanded it.  He didn't fear him so much, really what
+could he do?  But he had nightmares of waking up in the hideout, that minirature
+slayer looking over him, her blonde curls ticking his cheeks, a slight smile on
+her disgusting little face, stake in hand.  That horrible vision made him endure
+being wet, stinky and having mud up his asscrack every week.  But nothing,
+nothing and nobody said he had to put up with Cleetus and his innane chatter.
+Before he was able free his leg from the gunk the wind picked up and a sweet,
+sweet odor waffed across his nostrils.  A scent that brushed aside his anger,
+displacing it with lustfull thirst.
+
+Instead of launching himself clawed fists outstreached at Cleetushe said
+"Speaking of dinner I smell something."
+
+"Yeah, it's rotting fish and tree."
+
+"No, stupid.  I smell blood, warm human blood.  Come'on it's comming from the
+fields."
+
+Noname had quickly removed his waiters and tossed them at the base of the first
+massive 'egg-beater' turbine.  There were several hunderd along this stretch of
+coast.  Placed here to harness the strong breeze that blew in and out from the
+ocean.  They continued south as far as his enhanced vision could tell which wasn't
+all that far this moonless, overcast night.  Their churning produced a thumping
+base line.  Perhaps, after he ate and killed Cleetus, he would go dancing at
+[''].  Not all pleasures were evil.  The fresh ocean breeze and the delichious
+aroma it carried was dramatically improving his mood.  What could a human be
+doing out here at this time.  Well, he'd just have to find out.  He turned and
+headed into the wind, onto the sandy beach.  The tide was on the way out and the
+beach was comparativly wide.  Sand was filling Noname's designer shoes and an
+unnoticed wave had drenched the legs of his expensive Turkish wool slacks.  He
+didn't care, not now, a dozen meters further down the beach lay a prone, but
+living, human.  He thought it was female, no matter either sex would taste just
+as good after a week of bottled blood.
+
+Cleetus had walked out into the surf, his idea of a bath.  The cold salt-water
+washed away most of the mud and slime.  Of course he still reeked and would
+continue to do so until he 'did his laundry'.  Which involved stealing the
+cloths of some suitably sized and recently drained 'doner'.  That is how he came
+about his current fatigues, now dripping with seawater.  He ran out of the foamy
+water towards the spot Noname was approaching.  They arrived simultanously.
+
+Pulling a bit of seaweed out of his colar and tossing it to the sand Cleetus
+spoke first. "Lookit, a seafood snack. Huh huh"
+
+"My seafood" Replied Noname.  Bending over 'the catch' his dark blue fedora flew
+off.  It got carried high and ended up stuck in an eggbeater.  The next day a
+technition would be wearing it home hoping to never be rotated out of turbine
+maintenance.  Noname, handstiched ostirich leather shoes dug into the sand on
+either side of the unconcious female, reached down to grab her shoulders and
+pull his snack up to a more convient height.  Recently deposited by the tide.
+She was utterly naked except for a steel id bracelet fastened around her right
+wrist.  In her early twenties with head shaved so close it was hard to tell the
+fuzz that covered it was brown.  Her olive skin was unburnt and displayed few
+signs of prolonged exposure.  Whatever boat she had the misfortune to fall off
+of must have been sailing recently, at night and fairly close to shore.  As
+Noname pushed her all the way onto her back her large dark lips parted and spit
+up a bit of the ocean.  The naked girl coughed a few more times while he pulled
+her erect.  Brushing the sand from her slender neck Noname noticed she was quite
+a bit more muscular than most humans her age and gender.
+
+"Don't worry my little sushi, it will all be over soon."
+
+Cleetus would have laughed at this but could manage only one thing at a time and
+was currently busy scanning the ocean swells.  He was sure that had seen
+mishappened head sticking out at the water just were they started cresting.  Er,
+maybe not.  Well back to the show.  Cleetus turned 'round in time to catch
+Noname chaning into 'the face', mouth open wide, fangs centimeters from piercing
+that tender, shivering neck.
+
+Even before her large eyes were fully open she had begun to swing her right arm,
+elbow tight at the side, across the front of her body.  They were fully open to
+witness the back of her hand smash into the fearfull head that was leering over
+her neck.  It had been an automatic response as had the second part of this
+combo.  Her left fist, clenched hard and with the full force of her swinging
+body, barreled into Noname's face knocking him half way around and nearly to his
+knees.  Continuing her 180 spin, she lifted her right leg and planted a side
+kick firmly in Noname's side, propelling him several meters througth he air to
+land face first in the sand.
+
+"Jesus," he spurted mouth half filled with sand.  Noname liked to tangle with
+his meal as much as the next vamp, but this was ridiculus.
+
+She, naturally and without planning had ending up facing the next threat.
+
+"uh" Cleetus managed.  The naked meal's two huge brown eyes, their pupils extra
+large in the darkness, both were fixated right on him.  He didn't like being
+noticed.  He also didn't like being first so he stood there, knees bent, arms
+loose ready to sprint outta there if she came for him.  She was too dangerous,
+he could always find some old person to suck on.
+
+She stood, bewildered, staring at the camoflaged soldier a few meters away.
+Shivering from the cold wind she looked down at her bare, sand speckled body.
+She thought "Where are my cloths?"  Her clenched fist caused the muscles of her
+right forearm to bulge as she held it up.  She was turning over the id tag on
+her wrist to read it when goosepimples exploded all along her arm.  A sharp pain
+forced her to throw back her right wrist.  The skin at the base of her hand
+seperated and a smooth spike protruded.  It's tip caught in the links of the
+bracelet and snapped them as the spike contiuned its painfully extension.  A
+scream erupted from her lips.  Not from pain, this was a battle cry.  She spun
+back around and thrust her arm at Noname as he ran up behind her.  The force of
+the impact knocked her back leaving two troughs, goughed in the sand by her bare
+feet.  The heel of her hand rested over his heart.  Twentyfive or so centimeters
+of wood sheathed carbon fiber stake lay buried in his chest.  It's ferroceramic
+tip had pierced his fine wool suit as easily as it had parted his kelvar
+undershirt.  She deftly withdrew the extension as Noname turned to dust.  She
+held her stake arm up, defensivly, pararell to her head and without turning,
+looked over her right shoulder to again bring the next threat into view.  But
+Cleetus had seen enough of this shit and was out of sight running very fast back
+towards the marsh.  Big Boss would know what to do about this new slayer.
+
+The Slayer, stood shivering.  The warmth of combat had fled her body.  Slowly
+she let her arm fall limply to her side and slowly the stake withdrew back into
+her forearm.  The skin at her wrist sealed so cleanly it was barely noticible.
+Soon, her accelerated slayer healing would cause it to be not noticible at all.
+Muttering to herself "Where am I" and looking around she mostly saw the dark,
+cold ocean.  Something was out in the breakers heading this way.  Not
+understanding what had happened to the man that assaulted her or were the
+soldier had gone and fearing what might be coming after her from out of the
+depths she took a step back nearly toppling down.  Shock and mild hypothermia
+were taking their toll.  But slayers don't give up, even ones who don't know
+they are slayers.  Hugging herself for warmth she trudged through the sand
+towards the "whoop, whoop" of a hundred turbines.  A few minutes later she was
+in the Lowlands of SFDist stumbling up Ortega.
+
+In fact two somethings were silently approaching.  The recon spiders they had
+deployed informed them exactly who and what was or was not on, in, or above this
+stretch of beach.  Their rebreathers, night vision, thermal, detection and
+combat gear hung, protuded and bulged all over.  The skinsuits they wore
+adjusted to reflect a simliar amount of light as thier surroundings making them
+very hard to see submerged or not.  The suit's coolant and the thermal dampners
+they wore made them nigh invisilbe in IR.  Many of their targets, including
+vampires, relied heavily on IR.  But, this wasn't a search and destroy mission.
+This was cleanup, collecting the pieces left around from someone else's fuckup.
+
+"Did the spiders get that? Tell me they did, R&D chews my ass when we don't get
+them data to play with."
+
+"Recorded and uploaded, Sir."
+
+"How 'bout Delta section?"
+
+"They've located both the re-entry capsule and it's hatch.  Just waiting for
+Mother to pick them up."
+
+"Damn this team is sharp.  Tell them to stand-by, we'll be back out in ten."
+
+"We're not following... it, Sir?"
+
+"Not our problem Sergeant.  Some other resource will handle it.  If there's even
+a need."
+
+"How do you mean, Sir?"
+
+"Rumors, only rumors, that they have built in failsafes.  Now quit asking
+questions before you learn more than you want to know."
+
+He picked up the broken bracelet and meticiously scanned the sand with the
+magnometer mounted on his arm until he was satisfied that not a single fragment
+remained.  It, unlike any thing he wore or carried, was stamped "Property of
+Sony Corp".  It continued "Orbital R&D Facility" and below that "Starsider -
+v8.37.2".  Then again no one had expected the piece of tech this identifed to
+ever be 'in the wild' so to speak.  His team was all over dealing with the
+unexpected.
+
+"Check your seals and call in the spiders, we've got a sub to catch."
+
+"Yes, Sir"
+
+The Sergeant and her Lieutenant headed back to the waves, six robotic spiders
+chasing after them.  One by one the spiders hopped into the transport/charging
+hardpoints on their packs.  The last one had to swim a ways under water to catch
+the Sergeant.  As soon as it attached he gave the signal and they were making
+speed towards Mother who had already recovered the capsule and the rest of his
+team.
+
+
+                                    <->
+
+
+mulletov finds Starsider
+
+celest sees crow
+
+celest meets dark figure
+
+celeset casts spell
+
+tea party
+
+
+
+
+
+
+[notes and crap!]
+
+"This is my fist"
+
+"Of Emperors and Urchins"
+"Forgive my insects"
